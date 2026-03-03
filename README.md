@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ![Header](./banner_DanieleSiahaan.png)
 
-
 # Daniele Siahaan 👋
 
 I am a dedicated **Information Technology student** at **Universitas Sumatera Utara (USU)**. My passion lies at the intersection of system defense and digital forensics. I am currently honing my skills to become a professional **Security Engineer** who can build resilient and secure digital environments.
@@ -35,10 +34,15 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.style=for-the-badge&logo=git&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### 📊 GitHub Stats
-![Daniele's Stats](https://github-readme-stats.vercel.app/api?username=DanieleSiahaan29&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleSiahaan29&layout=compact&theme=tokyonight&hide_border=true)
+---
+
+### 🛡️ Cyber Security Platforms
+![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=CC0000)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![PicoCTF](https://img.shields.io/badge/PicoCTF-black?style=for-the-badge&logo=ctf&logoColor=white)
 
 ---
 
