@@ -29,7 +29,7 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
-
+Tech Stack & Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -38,7 +38,7 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
-
+Cyber Security Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=CC0000)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![PicoCTF](https://img.shields.io/badge/PicoCTF-black?style=for-the-badge&logo=ctf&logoColor=white)
@@ -54,4 +54,5 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
+![Daniele's Github stats](https://github-readme-stats.vercel.app/api?username=DanieleSiahaan29&show_icons=true&theme=transparent)
 > *“Security is not a product, but a process.”*
