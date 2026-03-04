@@ -66,4 +66,16 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
+### Contribution Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieleSiahaan29/DanieleSiahaan29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanieleSiahaan29/DanieleSiahaan29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DanieleSiahaan29/DanieleSiahaan29/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DanieleSiahaan29.DanieleSiahaan29" />
+</p>
+
+---
 > *“Security is not a product, but a process.”*
