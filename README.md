@@ -29,7 +29,7 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
-Tech Stack & Tools
+### Tech Stack & Tools
 ![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -38,7 +38,7 @@ Tech Stack & Tools
 
 ---
 
-Cyber Security Platforms
+### Cyber Security Platforms
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=CC0000)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![PicoCTF](https://img.shields.io/badge/PicoCTF-black?style=for-the-badge&logo=ctf&logoColor=white)
@@ -54,5 +54,16 @@ Cyber Security Platforms
 
 ---
 
-![Daniele's Github stats](https://github-readme-stats.vercel.app/api?username=DanieleSiahaan29&show_icons=true&theme=transparent)
+###  GitHub Profile Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanieleSiahaan29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Daniele's Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleSiahaan29&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanieleSiahaan29&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 > *“Security is not a product, but a process.”*
