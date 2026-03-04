@@ -66,7 +66,7 @@ I am a dedicated **Information Technology student** at **Universitas Sumatera Ut
 
 ---
 
-### Contribution Activity
+### Classic Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanieleSiahaan29/DanieleSiahaan29/output/dist/pacman-contribution-graph-dark.svg">
